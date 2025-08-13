@@ -5,19 +5,19 @@ CAREPLUS is a robust, scalable hospital management system designed for multi-loc
 With an intuitive interface and strong backend integration, CAREPLUS improves appointment booking, patient record management, and hospital resource utilization — making healthcare delivery faster, smarter, and more patient-focused.
 
 ## Key Features
-###1. Patient Care
+### 1. Patient Care
 - **Patient Registration & Profile Management –** Securely store and manage personal and medical details.
 - **Appointment Booking –** Real-time scheduling with doctors across different hospitals.
 - **Medical Reports Storage –** Secure online access to diagnostic and treatment records.
 - **Hospital & Doctor Search –** Search by city, specialization, rating, and experience.
 
-###2. Hospital Operations
+### 2. Hospital Operations
 - **Multi-Hospital Integration –** Centralized data management across different locations.
 - **Doctor Management –** Manage profiles, availability, and specialties.
 - **Receptionist & Staff Management –** Assign roles and manage access permissions.
 - **Inventory Tracking –** Monitor medical supplies and equipment usage.
 
-###3. Finance & Compliance
+### 3. Finance & Compliance
 - **Billing & Payments –** Invoice generation, insurance claim tracking.
 - **Role-Based Access Control (RBAC) –** Ensures data privacy and compliance with healthcare regulations.
 - **Reporting & Analytics –** Track hospital performance, appointment statistics, and patient feedback.
@@ -57,7 +57,7 @@ With an intuitive interface and strong backend integration, CAREPLUS improves ap
 
 **4. Start the Liferay server and access via browser.**
 
-##System Modules
+## System Modules
 **Admin**
 - Manage hospitals, doctors, patients, and appointments.
 - Access analytics and reports.
@@ -71,13 +71,13 @@ With an intuitive interface and strong backend integration, CAREPLUS improves ap
 - Book/cancel appointments.
 - View reports and hospital details.
 
-##Advantages
+## Advantages
 - Centralized control for multiple hospitals.
 - Reduced patient wait times via online booking.
 - Improved data security with RBAC.
 - Scalable architecture for future growth.
 
-##Limitations
+## Limitations
 - Requires stable internet for full functionality.
 - No integrated online payment in the current version.
 - Limited accessibility for non-digital users.
