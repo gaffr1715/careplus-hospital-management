@@ -82,7 +82,7 @@ With an intuitive interface and strong backend integration, CAREPLUS improves ap
 - No integrated online payment in the current version.
 - Limited accessibility for non-digital users.
 
-##Future Enhancements
+## Future Enhancements
 - AI-based appointment prediction.
 - Aadhaar-based patient verification.
 - Mobile application for Android/iOS.
